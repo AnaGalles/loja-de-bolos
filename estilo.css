@@ -1,0 +1,30 @@
+body{
+    background-color: white;
+}
+
+.site-todo{
+    background-color: #E94A69;
+    width: 960px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.h1{
+    font-size: 30px;
+    color: #19223D;
+    text-align: center;
+}
+
+.h2{
+    font-size: 30px;
+    color: #114070;
+    text-align: center;
+}
+
+.cabecalho{
+    text-align: center;
+    background-image: url(img/fundo-do-site.jpg);
+    background-size: cover;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
